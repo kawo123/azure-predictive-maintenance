@@ -1,6 +1,5 @@
 # Azure Machine Learning
-config.json
-aml_arm_config.json
+model_config.json
 
 # Data
 data/*.csv
