@@ -6,10 +6,6 @@
 
    - [Azure Machine Learning Compute Instance](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance) as your development machine
 
-   - Azure subscription ID
-
-   - Azure resource group name
-
 ## Introduction
 
 This project contains two Jupyter notebooks. The first notebook, [01-turbofan_regression_predictive_maintenance_train](./01-turbofan_regression_predictive_maintenance_train.ipynb) walks through the process of using the data from the turbofan devices to train a Remaining Useful Life (RUL) prediction model. The second notebook, [02-turbofan_regression_predictive_maintenance_deploy](./02-turbofan_regression_predictive_maintenance_deploy.ipynb), depends on completion of the first and demonstrates how to create a deployable Edge module from the model created in the first notebook.
